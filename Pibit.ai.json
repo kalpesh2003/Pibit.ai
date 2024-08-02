@@ -1,0 +1,106 @@
+{
+  "Experience": [
+    {
+      "title": "Virtual Internship Program - JP Morgan Chase",
+      "role": "Software Engineering Intern",
+      "duration": "Apr 2024 – May 2024",
+      "responsibilities": [
+        "Established Git protocols and optimized repository management; reduced post-merge issues 35% and improved deployment efficiency 30%",
+        "Utilized Agile methodologies, participating in daily standups, sprint planning, and retrospectives to enhance project delivery and team communication",
+        "Analyzed and optimized RESTful APIs, improving system performance and data retrieval speeds by 30% through efficient database queries and caching mechanisms",
+        "Executed comprehensive unit testing and integration testing, achieving 95% code coverage and reducing post-release defects by 40%",
+        "Leveraged continuous integration and continuous deployment (CI/CD) pipelines, automating build processes and reducing deployment time by 50%"
+      ]
+    },
+    {
+      "title": "Summer Internship Program - VIIT, Pune",
+      "role": "Software Developer Intern",
+      "duration": "Aug 2022 – Nov 2022",
+      "responsibilities": [
+        "Created a pioneering Android application incorporating sophisticated object detection to provide real-time audio alerts for visually impaired users; saw a 50% improvement in user mobility and a 30% rise in daily active users",
+        "Trained models with TensorFlow on the COCO dataset, enhancing detection accuracy by 40%",
+        "Implemented real-time object recognition with Python and TensorFlow, improving system responsiveness and user safety by 50%"
+      ]
+    }
+  ],
+  "Skills": {
+    "Fundamentals": [
+      "Data Structure and Algorithms",
+      "Operating Systems",
+      "Database Management"
+    ],
+    "Languages": [
+      "Python",
+      "Java",
+      "C++",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "SQL"
+    ],
+    "Technologies": [
+      "Power BI",
+      "Tableau",
+      "Machine Learning",
+      "MongoDB",
+      "Networking Protocols"
+    ],
+    "Developer Tools": [
+      "VS Code",
+      "Android Studio",
+      "NetBeans",
+      "Pycharm",
+      "Git",
+      "Linux"
+    ]
+  },
+  "Education": [
+    {
+      "institution": "Vishwakarma Institute of Information Technology",
+      "degree": "Electronics and Telecommunication Engineering",
+      "cgpa": 7.5,
+      "duration": "Nov 2021 – present"
+    },
+    {
+      "institution": "Brijlal Biyani Science College",
+      "hsc": "91.12%",
+      "cet": "92.61%",
+      "duration": "Jul 2019 – Jul 2021"
+    },
+    {
+      "institution": "Asmita Vidyalaya, Amravati",
+      "ssc": "83.6",
+      "duration": "2019"
+    }
+  ],
+  "Projects": [
+    {
+      "title": "Real-Time Mobile Banking Application",
+      "description": "Created a cutting-edge mobile banking application with React.js and Node.js, boosting user engagement by 35%; applied advanced project management principles to streamline development and ensure timely completion",
+      "impact": [
+        "Boosted user engagement by 35%",
+        "Improved data retrieval efficiency by 30%"
+      ]
+    },
+    {
+      "title": "Pet Force - NGO Website",
+      "description": "Engineered 'Pet Force' website with React.js, MongoDB, Node.js, HTML, CSS, and Express.js; enabled seamless tracking and storage of pet health records, boosting user engagement and operational efficiency by 40%",
+      "impact": [
+        "Enhanced user engagement by 40%"
+      ]
+    },
+    {
+      "title": "Job Interview Scheduler",
+      "description": "Designed an application for scheduling job interviews, addressing common challenges in interview coordination",
+      "impact": [
+        "Streamlined interview coordination"
+      ]
+    }
+  ],
+  "Certifications & Achievements": [
+    "Registered on India’s Udyam Portal as a recognized startup",
+    "Completed Java course from Apna College, solving over 200 DSA problems",
+    "Completed the Data Analytics Foundation course by LinkedIn Learning",
+    "Actively practice coding on GeeksforGeeks and LeetCode, solving diverse algorithmic challenges"
+  ]
+}
